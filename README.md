@@ -1,2 +1,1 @@
-# hello-world
-tarefa de programação (PAA)
+# Algoritmo de ordenação Quick sort 
